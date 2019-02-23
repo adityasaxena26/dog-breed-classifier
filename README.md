@@ -12,8 +12,8 @@ In this project, you will build a pipeline that can be used within a web or mobi
 ### Instructions
 1. Clone the repository and navigate to the downloaded folder.
   ```
-  git clone https://github.com/udacity/dog-project.git
-  cd dog-project
+  git clone https://github.com/adityasaxena26/dog-breed-classifier.git
+  cd dog-breed-classifier
   ```
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
 
