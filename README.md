@@ -12,8 +12,8 @@ In this project, you will build a pipeline that can be used within a web or mobi
 ### Instructions
 1. Clone the repository and navigate to the downloaded folder.
   ```
-  git clone https://github.com/adityasaxena26/dog-breed-classifier.git
-  cd dog-breed-classifier
+  git clone https://github.com/udacity/dog-project.git
+  cd dog-project
   ```
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
 
@@ -82,3 +82,12 @@ pip install -r requirements/requirements.txt
 11.  Open the notebook.
   ```jupyter notebook dog_app.ipynb```
 12. (Optional) If you are running the project on your local machine (and not using AWS), before running code, change the kernel to match the dog-project environment by using the drop-down menu (Kernel > Change kernel > dog-project). Then, follow the instructions in the notebook.
+
+### Software and Libraries
+  - [Anaconda or miniconda](https://www.anaconda.com/distribution/)
+  - [Python 2.7 or higher](https://www.python.org/downloads/)
+  - [Keras](https://pypi.org/project/Keras/)
+  - [Numpy](https://pypi.org/project/numpy/)
+  - [Jupyter Notebook](https://jupyter.org/install)
+  - [Matplotlib](https://pypi.org/project/matplotlib/)
+  - [scikit-learn](https://pypi.org/project/scikit-learn/)
